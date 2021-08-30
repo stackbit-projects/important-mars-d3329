@@ -110,7 +110,9 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: left
         media_width: fifty
-        video_embed_html: <video width="320" height="240" controls><video>
+        video_embed_html: >-
+          <video width="320" height="240"
+          controls>https://www.youtube.com/watch?v=YSfwXTdGNO0<video>
       - title: Comprehensive Task List
         subtitle: Always be in control
         content: >-
